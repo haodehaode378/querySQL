@@ -30,7 +30,7 @@ bash
 
 ```bash
 # 克隆仓库（若使用版本控制）
-git clone <https://github.com/haodehaode378/-.git>
+git clone <https://github.com/haodehaode378/querySQL>
 cd employee-query-system  # 进入项目目录
 ```
 
