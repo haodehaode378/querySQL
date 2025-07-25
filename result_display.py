@@ -14,6 +14,6 @@ def display_results(results):
     if results:
         print("查询结果:")
         for row in results:
-            print(row)
+            print (row)
     else:
         print("没有找到匹配的记录。")

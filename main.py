@@ -43,7 +43,7 @@ def main():
     finally:
         if conn:
             conn.close()
-            print("数据库连接已关闭。")        
+            print ("数据库连接已关闭。")        
 
 if __name__ == "__main__":
     main()

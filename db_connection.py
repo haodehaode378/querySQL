@@ -18,5 +18,5 @@ def create_db_connection():
         conn = Connection(**db_config)
         return conn
     except OperationalError as e:
-        print(f"数据库连接错误: {e}")
+        print (f"数据库连接错误: {e}")
         return None

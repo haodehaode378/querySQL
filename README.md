@@ -176,7 +176,7 @@ employee-query-system/
 
 ## 许可证
 
-[MIT](https://opensource.org/licenses/MIT)
+[MIT] (https://opensource.org/licenses/MIT)
 允许自由使用、修改和分发，需保留原作者信息。
 
 ## 联系方式
