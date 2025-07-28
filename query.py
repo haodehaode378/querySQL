@@ -90,8 +90,9 @@ def _execute_sql(conn, sql, params):
         return cursor.fetchall()
     except ProgrammingError as e:
         print (f"SQL执行错误: {e}")
+        return None
     finally:
         if cursor:
             cursor.close()
-        return None
+        
         
